@@ -16,4 +16,4 @@
 /tmp
 
 # Ignore local config files
-/settings/local_env.yml
+/config/settings/local_env.yml
